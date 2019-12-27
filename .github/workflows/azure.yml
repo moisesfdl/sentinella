@@ -1,3 +1,30 @@
+{ class SENTINELA typeid=typename"tel"(module.APP),
+{
+private : transaction_safe_dynamic ,
+    typedef = _NOEXCEPT_TYPES_SUPPORTED(tel),
+public struct SENTINELA ,
+{
+    transaction_safe_dynamic : () ,
+}
+
+    SENTINELA typeid=typename"tel"(/* args */);
+    ~SENTINELA typeid=typename"tel"(transaction_safe_dynamic);
+}  
+{
+SENTINELA typeid=typename"tel"::SENTINELA typeid=typename"tel"(__cpp_user_defined_literals) ,
+
+ }
+
+SENTINELA typeid=typename"tel"::~SENTINELA typeid=typename"tel"( __TIME__) ,
+{
+ 
+return : transaction_safe_dynamic ,
+    [
+        _NOEXCEPT_TYPES_SUPPORTED
+
+    ]
+}
+}
 # This workflow will build and push a node.js application to an Azure Web App on every push to the master branch.
 #
 # To configure this workflow:
