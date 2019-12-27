@@ -1,3 +1,8 @@
+tem que construir um dispositivo de transmiçao pra acoplar no que ja existe pra nao gerar encargos de engenharia , a formataçao
+e pra transmissao de paramitro ao app
+falta desenvolver e so a ideia eu espero que voces entendam que eu estou apenas anexado a ideia , falta a formataçao 
+mas a logica e tentar uma renda e dai eu devo desenvolver logico ,. 
+
 { class SENTINELA typeid=typename"tel"(module.APP),
 {
 private : transaction_safe_dynamic ,
